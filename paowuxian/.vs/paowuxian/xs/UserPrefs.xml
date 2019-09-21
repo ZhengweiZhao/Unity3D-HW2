@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A4D56C2F-DD8D-36A9-3D98-6CCDF57A7C99}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/trans.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="7" Column="11" />
+      <File FileName="Assets/vector.cs" Line="19" Column="25" />
+      <File FileName="Assets/trans.cs" Line="2" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="paowuxian" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="trans.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="47bad23c-7d8c-43a0-8a63-aeb7785f1ae3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
