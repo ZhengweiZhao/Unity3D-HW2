@@ -1,6 +1,5 @@
-﻿@[TOC](3D Game Programming & Design：空间与运动)
 
-# 空间与运动
+# 3D Game Programming & Design：空间与运动
 ##  1、简答题
 简答并用程序验证【建议做】
 
@@ -587,6 +586,4 @@ public class ClickGUI : MonoBehaviour {
 
 - 最后
 感觉这次作业的编程游戏难度还是挺大的，所以代码和设计思路很大程度上都是参考的这篇博客做的，感谢师兄的分享！[参考文档](https://blog.csdn.net/hellowangld/article/details/79805000)
-
-[我的Github代码传送门](https://github.com/ZhengweiZhao/gotest)
 
